@@ -3,4 +3,4 @@ pandas==1.0.4
 requests==2.23.0
 scikit-learn==0.23.1
 scipy==1.4.1
-websockets==8.1
+websockets==9.1
